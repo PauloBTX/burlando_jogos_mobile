@@ -1,0 +1,47 @@
+[
+  {
+    "classe": "CurrencyManager",
+    "metodo": "OnUserDataChanged",
+    "nome_completo": "CurrencyManager$$OnUserDataChanged",
+    "rva_decimal": 50024412,
+    "rva_hex": "0x2FB4FDC",
+    "n_params": 1,
+    "assinatura": "private void OnUserDataChanged(UserData userData)"
+  },
+  {
+    "classe": "CurrencyManager",
+    "metodo": "Add",
+    "nome_completo": "CurrencyManager$$Add",
+    "rva_decimal": 50025300,
+    "rva_hex": "0x2FB5354",
+    "n_params": 3,
+    "assinatura": "public void Add(string currencyId, int amount, bool shouldCap = False)"
+  },
+  {
+    "classe": "CurrencyManager",
+    "metodo": "Remove",
+    "nome_completo": "CurrencyManager$$Remove",
+    "rva_decimal": 50025944,
+    "rva_hex": "0x2FB55D8",
+    "n_params": 2,
+    "assinatura": "public void Remove(string currencyId, int amount)"
+  },
+  {
+    "classe": "CurrencyManager",
+    "metodo": "SetAmount",
+    "nome_completo": "CurrencyManager$$SetAmount",
+    "rva_decimal": 50026544,
+    "rva_hex": "0x2FB5830",
+    "n_params": 2,
+    "assinatura": "public void SetAmount(string currencyId, int amount)"
+  },
+  {
+    "classe": "CurrencyManager",
+    "metodo": "GetCurrencyAmount",
+    "nome_completo": "CurrencyManager$$GetCurrencyAmount",
+    "rva_decimal": 50018268,
+    "rva_hex": "0x2FB37DC",
+    "n_params": 1,
+    "assinatura": "public int GetCurrencyAmount(string currencyId)"
+  }
+]

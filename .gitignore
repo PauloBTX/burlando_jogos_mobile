@@ -1,0 +1,24 @@
+# Binários pesados e APKs
+*.apk
+*.so
+*.dat
+
+# Pastas de extração e dumps brutos temporários
+_extract/
+_dump_tmp/
+_dump/out/
+_analysis/
+tools/
+agente/log/
+*.log
+
+# Arquivos de relatórios internos anteriores
+relatorio_tcc_*.md
+setup_ambiente_*.md
+plano_validacao_*.md
+
+# IDE e sistema
+.vscode/
+.idea/
+__pycache__/
+*.pyc
