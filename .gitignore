@@ -22,3 +22,4 @@ plano_validacao_*.md
 .idea/
 __pycache__/
 *.pyc
+agente/agent.js
